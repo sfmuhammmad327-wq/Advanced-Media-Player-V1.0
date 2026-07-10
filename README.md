@@ -1,3 +1,4 @@
+![Preview](example.png)
 # 🎬 Advanced Media Player
 
 An interactive, responsive, and high-performance web-based media application designed for seamless local playback and dynamic streaming. Built with clean semantic HTML5, modern CSS layouts, and pure JavaScript.
